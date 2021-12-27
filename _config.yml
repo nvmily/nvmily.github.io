@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Get Ready With Me"
+title                    : "Merry go round of life"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "nvmily"
+name                     : "시뮤경"
 description              : "Never Mind"
 url                      : "https://nvmily.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "시뮤경"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : 
+  location         : "Moon"
   email            :
   links:
     - label: "Email"
