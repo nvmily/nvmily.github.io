@@ -104,7 +104,7 @@ author:
   name             : "시뮤경"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
-  location         : "Moon"
+  location         : 
   email            :
   links:
     - label: "Email"
